@@ -2,15 +2,15 @@
 
 This repository hosts my **digital business card (vCard)** for quick contact sharing.
 
-You can scan the QR code or open the link below to add my details directly to your phone’s contacts.
-
 ---
 
 ## 🧾 Add to Contacts
 
-When you open this link on your phone:
+When you open this link of business card .vcf file using your github repository on your phone:
 - iPhone will prompt **“Add to Contacts”**
 - Android will download the `.vcf` file, which you can open to import directly
+
+The link will look something like https://yourusername.github.io/repository-name/digital-contact-filename.vcf
 
 ---
 
@@ -26,7 +26,7 @@ This setup uses the standard [vCard format (VCF)](https://en.wikipedia.org/wiki/
 ## 🧠 Notes
 
 - This repository must be **public** for the vCard link to work.  
-- You can update your `.vcf` file anytime — the link and QR code remain the same.  
+- You can update your `.vcf` file anytime — the link will remain the same.  
 - Replace the URL above with your actual GitHub Pages link.
 
 ---
